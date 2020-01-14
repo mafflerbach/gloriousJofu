@@ -32,7 +32,6 @@
 #define MATRIX_COL_PINS_RIGHT {F4, F5, F6, F7, B1, B3, D7, C6, D4}
 #define SPLIT_HAND_PIN D3
 
-#define MASTER_RIGHT
 
 
 
