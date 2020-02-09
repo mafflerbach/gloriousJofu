@@ -43,7 +43,6 @@ BOOTLOADER = caterina
 OPT_DEFS += -DBOOTLOADER_SIZE=4096
 
 
-RGB_MATRIX_ENABLE = WS2812
 SPLIT_KEYBOARD = yes
 # Build Options
 #   comment out to disable the options.
